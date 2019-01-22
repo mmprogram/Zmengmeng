@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 try and try one two three
 =======
 try and try one
 >>>>>>> parent of d19b00f... tui2
+=======
+try and try one two
+>>>>>>> 82a60c6e208ce713e6e4c5e0db5e107a3a5cbfd8
